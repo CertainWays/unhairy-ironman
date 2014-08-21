@@ -4,7 +4,7 @@ unhairy-ironman
 my first app
 About Me
 My name is Wesley Walker. I'm here as the founder of this small business
-wanting to be sucessful online promoting products for large companys
+wanting to be successful online promoting products for large companys
 that have information I'd like to use to advertise online and offline
 gaining an feel of thee consluting field. I'm new to GitHub and at the
 moment studing the use, tools and information of the dos and don't.
